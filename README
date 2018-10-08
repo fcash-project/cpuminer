@@ -13,7 +13,8 @@ curl --user fcashuser:fcashpass --data-binary '{"method": "getblocktemplate", "p
 
 
 
-
+CPU miner 
+------------
 
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
 fork of Jeff Garzik's reference cpuminer.
