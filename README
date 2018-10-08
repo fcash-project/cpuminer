@@ -7,14 +7,14 @@ fcash.conf
 ------------
 cat .fcash/fcash.conf 
 ```
-rpcuser=fcashuser
-rpcpassword=fcashpass
-rpcallowip=127.0.0.1
-txindex=1
-server=1
-listen=1
-# daemon=1
-gen=0
+	rpcuser=fcashuser
+	rpcpassword=fcashpass
+	rpcallowip=127.0.0.1
+	txindex=1
+	server=1
+	listen=1
+	# daemon=1
+	gen=0
 ```
 
 CPU miner 
