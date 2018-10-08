@@ -6,7 +6,7 @@ Minerd Fcash Coin
 fcash.conf 
 ------------
 cat .fcash/fcash.conf 
-```
+```sh
 	rpcuser=fcashuser
 	rpcpassword=fcashpass
 	rpcallowip=127.0.0.1
